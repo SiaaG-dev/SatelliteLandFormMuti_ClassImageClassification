@@ -1,0 +1,2 @@
+# SatelliteLandFormMuti_ClassImageClassification
+Satellite Landform Image Detection with Multiclass Identification with MLRSNet
